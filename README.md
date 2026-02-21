@@ -4,7 +4,7 @@
 
 
 <h4 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=DSA+Enthusiast;AI%2FML+Enthusiast;Full+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=DSA+Enthusiast;AI%2FML+Enthusiast;Full+Stack+Developer;" alt="Typing SVG" />
 </h4>
 
 <p align="center">
@@ -76,13 +76,13 @@
   <h3>📩 Contact Me</h3>
 </div>
 <div align="center">
-  <a href="mailto:meetkeraliya6636@gmail.com" target="_blank">
+  <a href="mailto:meetkeraliya6636@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/keraliya07" target="_blank">
+  <a href="https://linkedin.com/in/keraliya07" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/keraliya07" target="_blank">
+  <a href="https://x.com/keraliya07" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 </div>
@@ -91,14 +91,14 @@
   <h3>💻 Coding Profiles</h3>
 </div>
 <div align="center">
-  <a href="https://leetcode.com/u/keraliya07" target="_blank">
+  <a href="https://leetcode.com/u/keraliya07" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://codeforces.com/profile/keraliya07" target="_blank">
+  <a href="https://codeforces.com/profile/keraliya07" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces" />
   </a>
   
-  <a href="https://www.geeksforgeeks.org/profile/keraliya07" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/keraliya07" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
   </a>
 </div>
