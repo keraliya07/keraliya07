@@ -109,5 +109,3 @@
   <h3>✨ Let's Build Something Together ✨</h3>
   <p>Feel free to reach out for collaborations, discussions about tech, or just to say hi!</p>
 </div>
-
-```
