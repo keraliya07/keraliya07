@@ -79,7 +79,6 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=meetkeraliya6636@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <span style="font-size:0.9em; margin-left:6px;">(opens Gmail web compose)</span>
   <a href="https://linkedin.com/in/keraliya07" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
